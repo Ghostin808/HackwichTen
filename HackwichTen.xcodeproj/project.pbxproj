@@ -13,6 +13,7 @@
 		3F0D37C72457CFFF0038A460 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F0D37C52457CFFF0038A460 /* Main.storyboard */; };
 		3F0D37C92457D0110038A460 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F0D37C82457D0110038A460 /* Assets.xcassets */; };
 		3F0D37CC2457D0110038A460 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F0D37CA2457D0110038A460 /* LaunchScreen.storyboard */; };
+		3F0D37D42457FA420038A460 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0D37D32457FA420038A460 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F0D37C82457D0110038A460 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F0D37CB2457D0110038A460 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F0D37CD2457D0110038A460 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F0D37D32457FA420038A460 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3F0D37C12457CFFF0038A460 /* SceneDelegate.swift */,
 				3F0D37C32457CFFF0038A460 /* ViewController.swift */,
 				3F0D37C52457CFFF0038A460 /* Main.storyboard */,
+				3F0D37D32457FA420038A460 /* Restaurant.swift */,
 				3F0D37C82457D0110038A460 /* Assets.xcassets */,
 				3F0D37CA2457D0110038A460 /* LaunchScreen.storyboard */,
 				3F0D37CD2457D0110038A460 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F0D37D42457FA420038A460 /* Restaurant.swift in Sources */,
 				3F0D37C42457CFFF0038A460 /* ViewController.swift in Sources */,
 				3F0D37C02457CFFF0038A460 /* AppDelegate.swift in Sources */,
 				3F0D37C22457CFFF0038A460 /* SceneDelegate.swift in Sources */,
